@@ -1,6 +1,3 @@
-#Essa é a primeira versão do meu cógigo de login. A ideia é simular a lógica de uma página de login,
-#com um pequeno tratamento de erros.
-
 #usuário deve entrar com nome e senha.
 usuario = input('Usuário: ')
 senha = input('Senha: ')
