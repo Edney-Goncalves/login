@@ -1,5 +1,3 @@
-#vvv
-
 print('Bem vindo à página de login')
 
 #opções para o usuário
