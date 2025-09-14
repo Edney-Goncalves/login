@@ -21,7 +21,51 @@ O sistema permite cadastrar usuários em memória e autenticar com base em nome 
 ## ▶️ Como Executar o Projeto
 
 ### 1. Clone este repositório
-```bash
-git clone https://github.com/seu-usuario/projeto-login.git
-cd projeto-login
 
+```bash
+git clone https://github.com/Edney-Goncalves/login.git
+cd login
+```
+
+### 2. Execute o script principal
+
+```bash
+python login.py
+```
+
+---
+
+## 💡 Exemplo de Uso
+
+Ao executar o script, siga as instruções no terminal para cadastrar um novo usuário e fazer login:
+
+```
+Bem-vindo ao sistema de login!
+Selecione uma opção:
+1 - Cadastrar usuário
+2 - Fazer login
+Opção: 1
+Digite o nome de usuário: usuario1
+Digite a senha: senha123
+Usuário cadastrado com sucesso!
+
+Selecione uma opção:
+1 - Cadastrar usuário
+2 - Fazer login
+Opção: 2
+Digite o nome de usuário: usuario1
+Digite a senha: senha123
+Login realizado com sucesso!
+```
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## 👤 Autor
+
+- [Edney Gonçalves](https://github.com/Edney-Goncalves)
