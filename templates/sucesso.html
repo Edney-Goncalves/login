@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Sucesso</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="card">
+        <h2>🎉 Sucesso!</h2>
+        <p>Usuário <strong>{{ usuario }}</strong> criado com sucesso!</p>
+        <a href="/" class="btn">Ir para login</a>
+    </div>
+</body>
+</html>

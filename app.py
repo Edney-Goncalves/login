@@ -30,7 +30,7 @@ def home():
 def login():
     usuario = request.form["usuario"]
     senha = request.form["senha"]
-    usuarios = carregar_usuarios
+    usuarios = carregar_usuarios()
     
     if usuarios.get(usuario) == senha:
         return f"<h1>Bem vindo, {usuario}!</h1>"
@@ -45,7 +45,7 @@ def cadastro():
 def cadastrar():
     usuario = request.form["usuario"].strip()
     senha = request.form["senha"]
-    confirma = request.form["confima"]
+    confirma = request.form["confirma"]
     
     usuarios = carregar_usuarios()
     
@@ -58,7 +58,7 @@ def cadastrar():
 
     usuarios[usuario] = senha
     salvar_usuarios(usuarios)
-    return f"Usuário {usuario} criado com sucesso! <a href='/'>Ir para login</a>"
+    return render_template("sucesso.html", usuario=usuario)
 
 if __name__ == "__main__":
     app.run(debug=True)
