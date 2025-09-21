@@ -38,6 +38,8 @@ python login.py
 ## 💡 Exemplo de Uso
 
 Ao executar o script, siga as instruções no terminal para cadastrar um novo usuário e fazer login:
+<img width="433" height="340" alt="image" src="https://github.com/user-attachments/assets/64cd1358-c642-4612-9133-b4d40421a8f2" />
+
 
 ```
 Bem-vindo ao sistema de login!
