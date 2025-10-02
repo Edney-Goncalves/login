@@ -15,6 +15,9 @@ O sistema permite cadastrar usuários em memória e autenticar com base em nome 
 
 ## Tecnologias Utilizadas
 - [Python 3.11+](https://www.python.org/)
+- Flask
+- HTML5
+- CSS3
 
 ---
 
