@@ -41,25 +41,6 @@ Ao executar o script, siga as instruções no terminal para cadastrar um novo us
 <img width="433" height="340" alt="image" src="https://github.com/user-attachments/assets/64cd1358-c642-4612-9133-b4d40421a8f2" />
 
 
-```
-Bem-vindo ao sistema de login!
-Selecione uma opção:
-1 - Cadastrar usuário
-2 - Fazer login
-Opção: 1
-Digite o nome de usuário: usuario1
-Digite a senha: senha123
-Usuário cadastrado com sucesso!
-
-Selecione uma opção:
-1 - Cadastrar usuário
-2 - Fazer login
-Opção: 2
-Digite o nome de usuário: usuario1
-Digite a senha: senha123
-Login realizado com sucesso!
-```
-
 ---
 
 ## 📄 Licença
