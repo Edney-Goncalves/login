@@ -1,11 +1,11 @@
-# 🔐 Projeto de Login em Python
+# Projeto de Login em Python
 
 Este é um projeto simples de **login em Python** desenvolvido para fins de estudo.  
 O sistema permite cadastrar usuários em memória e autenticar com base em nome e senha.
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 - Cadastro e autenticação de usuários.
 - Armazenamento temporário dos dados em memória (dicionário).
 - Mensagens de erro quando usuário/senha estão incorretos.
@@ -13,12 +13,12 @@ O sistema permite cadastrar usuários em memória e autenticar com base em nome 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - [Python 3.11+](https://www.python.org/)
 
 ---
 
-## ▶️ Como Executar o Projeto
+## Como Executar o Projeto
 
 ### 1. Clone este repositório
 
@@ -35,7 +35,7 @@ python login.py
 
 ---
 
-## 💡 Exemplo de Uso
+## Exemplo de Uso
 
 Ao executar o script, siga as instruções no terminal para cadastrar um novo usuário e fazer login:
 <img width="433" height="340" alt="image" src="https://github.com/user-attachments/assets/64cd1358-c642-4612-9133-b4d40421a8f2" />
@@ -43,12 +43,12 @@ Ao executar o script, siga as instruções no terminal para cadastrar um novo us
 
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
-## 👤 Autor
+## Autor
 
 - [Edney Gonçalves](https://github.com/Edney-Goncalves)
